@@ -1,3 +1,6 @@
 name = input(prompt= "What's your name?")
-otherInput = input(prompt= "Give me another input!")
+otherInput = input(prompt= "What is your Mother's name?")
 capOther = otherInput.upper()
+capName = name.upper()
+print("Your name is", name, "and your mother's name is", otherInput)
+print("Your names capitalized are", capName,"and", capOther)
