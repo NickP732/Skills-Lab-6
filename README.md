@@ -19,3 +19,5 @@
 * Due to financial restraints we are unable to reach the full potential of our code with only in-house developers. That's why we need you, the user to come up with new     and exciting ways to interpret and modify our program.
 * Given its simple nature, there are countless ways to fork our code, whether it be modifying the existing code to create another simple program, or to incorporate our     code as part of a much larger project. This can be done by copy pasting the code from the program.py file into an existing file, or by opening program.py in a text       editor and modifying the file itself. 
 * To submit pull requests, open the github repo and click the "Create pull request" button. From here, we can choose to either merge your contributions or reject them.
+
+![MyGif](https://media.giphy.com/media/26ufmAlKt4ne2JDnq/giphy.gif)
